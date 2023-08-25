@@ -1,0 +1,1 @@
+"./Software Layers/APP/main.obj" "./Software Layers/HAL/LCD.obj" "./Software Layers/LIB/tm4c123gh6pm_startup_ccs.obj" "./Software Layers/MCAL/DIO.obj" "./Software Layers/MCAL/GPIO_INTERRUPT.obj" "./Software Layers/MCAL/Systick.obj" "../tm4c123gh6pm.cmd" -llibc.a 
